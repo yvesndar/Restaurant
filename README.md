@@ -1,2 +1,2 @@
 # Restaurant
-Simple restaurant front page
+This is a Simple restaurant front page
